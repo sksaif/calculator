@@ -9,3 +9,7 @@ function sub(a,b) {
 function divide(a,b) {
   return a/b;
 }
+
+function mutiply(a,b) {
+  return a*b;
+}
